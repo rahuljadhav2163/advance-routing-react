@@ -1,0 +1,21 @@
+.ttitle{
+    text-align: center;
+}
+.dec{
+    text-align: center;
+    font-size: 19px;
+}
+.auth{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.ddata{
+    font-size: 23px;
+    margin-left: 50px;
+}
+.text{
+    text-align: justify;
+    padding:10px 50px;
+    font-size: 20px;
+}
